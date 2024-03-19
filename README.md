@@ -97,10 +97,7 @@ Durante a construção do projeto, usamos como inspiração e referencia o **IMD
 
 ##  Deploy
 
-Fiz com que os sites sejam publicados (ou _deployed_) para que as usuárias da
-web possam acessá-los é algo comum em projetos de desenvolvimento de software.
-
 Neste projeto, usei o Netlify para o deploy do site.
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0e597fd9-12d7-4d06-bc7f-5602163af5a9/deploy-status)](https://app.netlify.com/sites/bestmovies-dataverse-chat/deploys)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-consultar a [documentação oficial](https://docs.netlify.com).
+Consulte a [documentação oficial](https://docs.netlify.com).
