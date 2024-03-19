@@ -40,7 +40,7 @@ btnSubmitKey.addEventListener("click", () => {
 });
 
 btnChatGroup.addEventListener("click", () => {
-  window.location.href = "/chatGroup";
+  navigateTo("/chatGroup"); 
 });
 
 btnHeaderImage.addEventListener("click", () => {
