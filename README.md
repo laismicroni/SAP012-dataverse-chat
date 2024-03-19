@@ -45,25 +45,25 @@ Como um amante do cinema, eu quero acessar um site que liste os 24 filmes mais f
 
 1. **Protótipo Home**
 
-<img width="500" heigth="400" alt="tela inicial" src="https://github.com/renatinhafront/SAP012-dataverse-chat/assets/107226201/00e1413d-8e8d-49f0-a2e8-f7a09e1818be">
+<img width="500" src="./src/img/rdme-home.png">
 
 2. **Protótipo Chat**
 
-<img width="500" heigth="400" alt="tela do chat" src="https://github.com/renatinhafront/SAP012-dataverse-chat/assets/107226201/f9c1ccfc-d835-4dae-8a2d-ff97fbc1ebaf">
+<img width="500" src="./src/img/rdme-chat.png">
 
 3. **Protótipo Chat em  Grupo**
 
-<img width="500" heigth="400" alt="image" src="https://github.com/renatinhafront/SAP012-dataverse-chat/assets/107226201/24953fb9-f569-483e-8942-8df68ec9c5b6">
+<img width="500" src="./src/img/rdme-gpchat.png">
 
 
 4. **Protótipo Erro**
 
-<img width="500" heigth="400" alt="tela de erro" src="https://github.com/renatinhafront/SAP012-dataverse-chat/assets/107226201/c1b3ce16-b0dc-46b7-a28f-7a17d1e0f9c7">
+<img width="500" src="./src/img/rdme-error.png">
 
 5. **Protótipo de baixa fidelidade**
 
 
-<img width="300" heigth="300" alt="protótipo de baixa fidelidade" src="https://github.com/renatinhafront/SAP012-dataverse-chat/assets/107226201/d19aade0-a371-403c-9b12-27e2dad9ca8b">
+<img width="300" src="./src/img/prototipo.png">
 
 
 ## Lista de Problemas Detectados por Meio de Testes de Usabilidade
@@ -100,7 +100,6 @@ Durante a construção do projeto, usamos como inspiração e referencia o **IMD
 Fiz com que os sites sejam publicados (ou _deployed_) para que as usuárias da
 web possam acessá-los é algo comum em projetos de desenvolvimento de software.
 
-Neste projeto, usei o _Github Pages_ para implantar o site.
+Neste projeto, usei o Vercel para implantar o site.
 
-O comando `npm run deploy` ajuda com essa tarefa e você também pode
-consultar a [documentação oficial](https://docs.github.com/pt/pages).
+consultar a [documentação oficial](https://vercel.com/docs).
