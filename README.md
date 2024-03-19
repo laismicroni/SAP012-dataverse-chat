@@ -99,6 +99,6 @@ Durante a construção do projeto, usamos como inspiração e referência o **IM
 
 Neste projeto, usei o Netlify para o deploy do site.  
 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)(https://docs.netlify.com)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 consultar a [documentação oficial](https://docs.netlify.com).
