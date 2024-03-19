@@ -78,7 +78,7 @@ Durante os testes de usabilidade, identificamos alguns problemas que precisam se
 
 ## Referências
 
-Durante a construção do projeto, usamos como inspiração e referencia o **IMDb**, também conhecida como Internet Movie Database, é uma base de dados online de informação sobre cinema, TV, música e games, hoje pertencente à Amazon.
+Durante a construção do projeto, usamos como inspiração e referência o **IMDb**, também conhecido como Internet Movie Database. É uma base de dados online de informação sobre cinema, TV, música e games, hoje pertencente à Amazon.
 [Fonte: IMDb](https://www.imdb.com/)
 
 ## Tecnologias utilizadas
@@ -97,7 +97,8 @@ Durante a construção do projeto, usamos como inspiração e referencia o **IMD
 
 ##  Deploy
 
-Neste projeto, usei o Netlify para o deploy do site.
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+Neste projeto, usei o Netlify para o deploy do site.  
 
-Consulte a [documentação oficial](https://docs.netlify.com).
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)(https://docs.netlify.com)
+
+consultar a [documentação oficial](https://docs.netlify.com).
